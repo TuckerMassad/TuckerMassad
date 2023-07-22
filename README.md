@@ -4,8 +4,8 @@
 
 ## 🛠️ My Portfolio
 ![Personal Website](https://img.shields.io/badge/%20tuckermassad-website?style=for-the-badge&label=Personal%20Website&link=https%3A%2F%2Ftuckermassad.com%2F)
-[![Codepen Profile](https://img.shields.io/badge/-Codepen-61DAFB?style=for-the-badge&logo=codepen&logoColor=ffffff&link=https%3A%2F%2Fcodepen.io%2Ftuckermassad)](https://img.shields.io/badge/codepen-tuckermassad?style=for-the-badge&logo=codepen&label=Codepen%20Profile&labelColor=0a0a08&link=https%3A%2F%2Fcodepen.io%2Ftuckermassad
-)
+![Codepen Profile](https://img.shields.io/badge/-Codepen-61DAFB?style=for-the-badge&logo=codepen&logoColor=ffffff&link=https%3A%2F%2Fcodepen.io%2Ftuckermassad)](https://img.shields.io/badge/codepen-tuckermassad?style=for-the-badge&logo=codepen&label=Codepen%20Profile&labelColor=0a0a08&link=https%3A%2F%2Fcodepen.io%2Ftuckermassad
+
 
 ## 🙋‍♀️ Let's Connect
 
