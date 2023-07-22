@@ -4,7 +4,7 @@
 
 ## 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website-86c332?style=for-the-badge&labelColor=0a0a08)](https://tuckermassad.com)
-[![image](https://img.shields.io/badge/React%20Blog-1d2e05?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=1d2e05)](https://tuckermassad.com/blog)
+[![image](https://img.shields.io/badge/React%20Blog-231572B6?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=231572B6)](https://tuckermassad.com/blog)
 [![image](https://img.shields.io/badge/Codepen%20Profile-0a0a08?style=for-the-badge&logo=codepen&labelColor=0a0a08)](https://codepen.io/tuckermassad)
 [![image](https://img.shields.io/badge/Financhle%20%28The%20Wordle%20of%20Finance%29-FFD700?style=for-the-badge&labelColor=0a0a08)](https://financhle.com)
 
