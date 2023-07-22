@@ -1,6 +1,6 @@
 <h1 align="center"> Hi , I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I am a Web Engineer based in Boston, MA and incredibly passionate about web applications & UI/UX design.</h4>
+<h4 align="center">Web Engineer based in Boston, MA and incredibly passionate about web applications & UI/UX design.</h4>
 
 ## 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website-012619?style=for-the-badge&labelColor=012619)](https://tuckermassad.com)
