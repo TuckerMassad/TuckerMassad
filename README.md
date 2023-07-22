@@ -3,7 +3,7 @@
 <h4 align="center">I am a Web Engineer based in Boston, MA and incredibly passionate about web applications & UI/UX design.</h4>
 
 ## 🛠️ My Portfolio
-![Personal Website](https://img.shields.io/badge/%20tuckermassad-website?style=for-the-badge&label=Personal%20Website&link=https%3A%2F%2Ftuckermassad.com%2F)
+[![image](https://img.shields.io/badge/Personal%20Website-86c332?style=for-the-badge&logo=codepen&labelColor=0a0a08)](https://tuckermassad.com)
 [![image](https://img.shields.io/badge/Codepen%20Profile-0a0a08?style=for-the-badge&logo=codepen&labelColor=0a0a08)](https://codepen.io/tuckermassad)
 
 
