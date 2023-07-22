@@ -4,6 +4,7 @@
 
 ## 🛠️ My Portfolio
 ![Personal Website](https://img.shields.io/badge/%20tuckermassad-website?style=for-the-badge&label=Personal%20Website&link=https%3A%2F%2Ftuckermassad.com%2F)
+[![image](https://img.shields.io/badge/Codepen-0077B5?style=for-the-badge&logo=codepen&logoColor=0a0a08)](https://codepen.io/tuckermassad)
 
 
 ## 🙋‍♀️ Let's Connect
