@@ -5,6 +5,7 @@
 ## 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website-86c332?style=for-the-badge&labelColor=0a0a08)](https://tuckermassad.com)
 [![image](https://img.shields.io/badge/Codepen%20Profile-0a0a08?style=for-the-badge&logo=codepen&labelColor=0a0a08)](https://codepen.io/tuckermassad)
+[![image](https://img.shields.io/badge/Financhle%20-%20The%20Wordle%20of%20Finance-FFD700?style=for-the-badge&labelColor=0a0a08)](https://financhle.com)
 
 
 ## 🙋‍♀️ Let's Connect
