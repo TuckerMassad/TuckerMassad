@@ -5,7 +5,7 @@
 ## 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website%20&%20Blog-012619?style=for-the-badge&logo=windowsterminal&labelColor=012619)](https://tuckermassad.com)
 [![image](https://img.shields.io/badge/Codepen%20Profile-0a0a08?style=for-the-badge&logo=codepen&labelColor=0a0a08)](https://codepen.io/tuckermassad)
-[![image](https://img.shields.io/badge/Financhle%20%28The%20Wordle%20of%20Finance%29-FFD700?style=for-the-badge&labelColor=FFD700)](https://financhle.com)
+[![image](https://img.shields.io/badge/Financhle%20%28The%20Wordle%20of%20Finance%29-020d0a?style=for-the-badge&labelColor=020d0a)](https://financhle.com)
 
 
 ## 🙋‍♂️ Let's Connect
