@@ -1,7 +1,6 @@
-Hi, I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-===============
+<h1 style="text-align: center;"> Hi , I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center"> Senior Software Engineer <a href="https://github.com/stockx">@StockX</a> based in Boston. Incredibly passionate about web applications & UI/UX design. </h4>
+<h4 style="text-align: center;"> Senior Software Engineer <a href="https://github.com/stockx">@StockX</a> based in Boston. Incredibly passionate about web applications & UI/UX design. </h4>
 
 ## 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website%20&%20Blog-234F1E?style=for-the-badge&logo=windowsterminal&labelColor=234F1E)](https://tuckermassad.com)
