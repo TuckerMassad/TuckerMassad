@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi, I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> </h1>
 
 <h4 align="center"> Senior Software Engineer <a href="https://github.com/stockx">@StockX</a> based in Boston. Incredibly passionate about web applications & UI/UX design. </h4>
 
