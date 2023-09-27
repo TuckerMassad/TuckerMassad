@@ -1,4 +1,4 @@
-<span> Hi, I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> </span>
+<span> Hi, I'm Tucker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </span>
 
 <span> Senior Software Engineer <a href="https://github.com/stockx">@StockX</a> based in Boston. Incredibly passionate about web applications & UI/UX design. </span>
 
