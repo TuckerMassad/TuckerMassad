@@ -2,6 +2,8 @@
 
 <span> Senior Software Engineer <a href="https://github.com/stockx">@StockX</a> based in Boston. Incredibly passionate about web applications & UI/UX design. </span>
 
+<span> Creator of <a href="https://financhle.com/">Financhle</a>, a popular daily financial challenge and expansive S&P 500 index explorer. </span>
+
 ### 🛠️ My Portfolio
 [![image](https://img.shields.io/badge/Personal%20Website%20&%20Blog-234F1E?style=for-the-badge&logo=windowsterminal&labelColor=234F1E)](https://tuckermassad.com)
 [![image](https://img.shields.io/badge/Codepen%20Profile-333333?style=for-the-badge&logo=codepen&labelColor=333333)](https://codepen.io/tuckermassad)
