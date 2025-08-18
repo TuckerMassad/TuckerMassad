@@ -5,8 +5,8 @@
 <span> Creator of <a href="https://financhle.com/">Financhle</a>, a Stock Market Trivia, Financial Analysis, & Investment Research Platform. </span>
 
 ### 🛠️ My Portfolio
-[![image](https://img.shields.io/badge/Financhle?style=for-the-badge&labelColor=234F1E)](https://financhle.com)
-[![image](https://img.shields.io/badge/Personal%20Website%20&%20Blog-234F1E?style=for-the-badge&logo=windowsterminal&labelColor=DE970B)](https://tuckermassad.com)
+[![image](https://img.shields.io/badge/Financhle-234F1E?style=for-the-badge&labelColor=234F1E)](https://financhle.com)
+[![image](https://img.shields.io/badge/Personal%20Website%20&%20Blog-DE970B?style=for-the-badge&logo=windowsterminal&labelColor=DE970B)](https://tuckermassad.com)
 [![image](https://img.shields.io/badge/Codepen%20Profile-333333?style=for-the-badge&logo=codepen&labelColor=333333)](https://codepen.io/tuckermassad)
 
 
